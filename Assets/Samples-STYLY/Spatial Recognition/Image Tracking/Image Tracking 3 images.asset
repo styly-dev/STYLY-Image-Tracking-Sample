@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Image Tracking 3 images
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-293.2504,"y":-81.49283},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-444.0,"y":-422.0},"guid":"aca250ba-eb25-4477-af98-d67e238f7b9e","$version":"A","$type":"Unity.VisualScripting.Start","$id":"9"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-106.0,"y":-423.0},"guid":"44db42a2-b565-446c-9b0f-77938f18ae14","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"11"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Reference
+      Image Library","$type":"System.String"},"object":null},"position":{"x":-503.0,"y":-324.0},"guid":"12d07bc5-ff4e-40e9-965e-5e4c38475ec1","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"14"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Max
+      Number Of Moving Images","$type":"System.String"},"object":null},"position":{"x":-502.0,"y":-201.0},"guid":"336339e6-8919-43e3-bb0f-e268614d5b0f","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"16"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"TrackerDic","$type":"System.String"},"object":null},"position":{"x":-466.0,"y":-57.0},"guid":"8e720f20-8480-4ff3-8860-374eb6272b42","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"18"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"Input
+      Trigger","guid":"5ab3aa88-b4c8-44f9-b173-1e91506a2639","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"ReferenceImageLibrary","guid":"02a4188f-3537-47be-ba56-7206f94a76fd","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"Max
+      Number Of Moving Images","guid":"040fdc6c-551b-4bec-adc4-0ade38d8c5f3","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"18"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"Trackable
+      Dic","guid":"f94496b0-7a9f-4763-b997-ff6580461e3b","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 860dc1317cef841fdb1e7a8db26cd6f4, type: 2}
