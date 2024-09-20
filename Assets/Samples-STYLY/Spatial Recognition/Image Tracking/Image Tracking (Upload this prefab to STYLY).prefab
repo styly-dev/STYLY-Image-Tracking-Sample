@@ -222,7 +222,7 @@ GameObject:
   - component: {fileID: 6073677060842367655}
   - component: {fileID: 1289159990483841287}
   m_Layer: 0
-  m_Name: Image Tracking
+  m_Name: Image Tracking (Upload this prefab to STYLY)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
