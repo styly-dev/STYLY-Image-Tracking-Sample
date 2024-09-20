@@ -1,6 +1,7 @@
 # STYLY-Image-Tracking-Sample
 
 This is an Image Tracking Sample of STYLY for Vision Pro.
+**Unity Pro license required**
 
 <img width="819" alt="image" src="https://github.com/user-attachments/assets/c32a4c55-74f6-4793-a19f-cf60613b556a">
 
