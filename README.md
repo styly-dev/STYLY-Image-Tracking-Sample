@@ -24,3 +24,6 @@ This is an Image Tracking Sample of STYLY for Vision Pro.
 ## Known issue
 * Progress window is remain after build.
   * This bug will be fix by feature update of unity poly spatial.
+* Content built on Windows does not track images
+* We need force quitting app when we want to replace tracking images.
+* We need force quitting app when switch to another content with image tracking from a content with image tracking.
