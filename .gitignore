@@ -76,3 +76,6 @@ crashlytics-build.properties
 _Output
 .idea
 
+*.referenceobject
+*.referenceobject.meta
+
