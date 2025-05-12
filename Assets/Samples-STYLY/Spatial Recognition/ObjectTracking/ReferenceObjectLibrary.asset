@@ -27,6 +27,6 @@ MonoBehaviour:
     - {fileID: 1082523566035378387, guid: 7c71a9681eb1b404d8896566e921dbfd, type: 3}
   - m_GuidLow: 5030073492509579293
     m_GuidHigh: 1386012109286117546
-    m_Name: room
+    m_Name: Scottie
     m_Entries:
-    - {fileID: 1082523566035378387, guid: 4fcaf935d5b144fa89d832e9de1fe683, type: 3}
+    - {fileID: 1082523566035378387, guid: 1ab5711fc65ea4dc3a69e308f3206a22, type: 3}
