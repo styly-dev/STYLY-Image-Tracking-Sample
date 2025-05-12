@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f3b71a771f04aef8057fae3964fd78, type: 3}
+  m_Name: ReferenceObjectLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5222353608927337530
+  m_GuidHigh: 3224392327324105100
+  m_ReferenceObjects:
+  - m_GuidLow: 5461843984372113147
+    m_GuidHigh: 6807385052813137333
+    m_Name: heater
+    m_Entries:
+    - {fileID: 1082523566035378387, guid: ab7c61bce3cba43cc87d338246122d8b, type: 3}
+  - m_GuidLow: 4751892193612744450
+    m_GuidHigh: 13717828646785969072
+    m_Name: radio
+    m_Entries:
+    - {fileID: 1082523566035378387, guid: 7c71a9681eb1b404d8896566e921dbfd, type: 3}
+  - m_GuidLow: 5030073492509579293
+    m_GuidHigh: 1386012109286117546
+    m_Name: room
+    m_Entries:
+    - {fileID: 1082523566035378387, guid: 4fcaf935d5b144fa89d832e9de1fe683, type: 3}
