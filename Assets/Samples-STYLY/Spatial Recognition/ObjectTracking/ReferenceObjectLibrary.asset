@@ -17,7 +17,7 @@ MonoBehaviour:
   m_ReferenceObjects:
   - m_GuidLow: 5461843984372113147
     m_GuidHigh: 6807385052813137333
-    m_Name: heater
+    m_Name: Ultraman
     m_Entries:
     - {fileID: 1082523566035378387, guid: ab7c61bce3cba43cc87d338246122d8b, type: 3}
   - m_GuidLow: 4751892193612744450
@@ -30,3 +30,8 @@ MonoBehaviour:
     m_Name: Scottie
     m_Entries:
     - {fileID: 1082523566035378387, guid: 1ab5711fc65ea4dc3a69e308f3206a22, type: 3}
+  - m_GuidLow: 5003440247548032743
+    m_GuidHigh: 4874694032851327130
+    m_Name: Hover X1
+    m_Entries:
+    - {fileID: 1082523566035378387, guid: 00fb434fd62e84592bdb5b2876733072, type: 3}
